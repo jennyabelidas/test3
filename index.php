@@ -13,6 +13,8 @@
 
 </body>
 
+<form>
+
 <div>
 	<label>Firstname:</label>
 	<input type="text" name="firstname"class="form-control">
@@ -44,8 +46,10 @@
 </div>
 
 <div>
- <input type="submit" value="Submit">
+ <button type="submit" class="btn btn-primary">Submit</button>
 </div>
+
+</form>
 
 </html>
 
